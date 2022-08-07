@@ -1,1 +1,1 @@
-Select * from uberpool.hcv_dim_rider
+Select * from uberpool.hcv_dim_rider_tmp
